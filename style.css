@@ -1,0 +1,45 @@
+header {
+    border: solid;
+    background-color: grey;
+    text-align: center;
+}
+
+.group{
+    background-color: grey;
+    padding: 10px;
+    display: block;
+    margin: 0 auto;
+    border-radius: 2px;
+}
+
+.group input {
+    width: 100%;
+    padding: 5px;
+    border: 1px solid;
+    box-sizing: content-box;
+}
+
+table th{
+    border: 2px solid gray;
+    height: 30px;
+}
+
+table{
+    border-collapse: collapse;
+    width: 50%;
+    margin-top: 15px;
+    
+}
+
+tr {
+    border: 100%;
+    padding: 5px;
+    border: 2px solid grey;
+    box-sizing: content-box;
+    margin-top: 15px;
+    border-collapse: collapse;
+
+}
+
+
+
